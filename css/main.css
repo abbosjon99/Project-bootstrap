@@ -1,0 +1,71 @@
+@media (min-width: 1400px){
+    .container{
+        max-width: 1140px;
+    }
+}
+/*Navbar*/
+.navbar-brand{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+}
+.navbar-expand-md .navbar-nav .nav-link,
+.nav-item .btn
+
+{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 500;
+    font-size: 14px;
+    padding: 10px 20px;
+    box-sizing: border-box;
+}
+/* Text colors */
+.text-dark-custom {
+    color: #3a3a47!important;
+    font-weight: 700;
+    } 
+.text-grey-custom {
+    color: #5c5c5c!important;
+    } 
+.text-light-grey-custom {
+    color: #818198!important;
+    } 
+.text-dark-blue-custom {
+    color: #383B61!important;
+    font-weight: 700;
+    } 
+.text-blue-custom {
+    color: #3498db!important;
+    } 
+.text-green-custom {
+    color: #21bf73!important;
+    } 
+    /* Background colors */
+.bg-primary-custom {
+    background-color: #f0f5f9!important;
+}
+/* Home */
+.home-section{
+    padding: 150px 0;
+}
+.card.border-0.p-5{
+    background-color: #F8F9FA;
+}
+.card-img-top{
+    width: 80px;
+}
+/*Features*/
+.features{
+    background-color: #f0f5f9
+}
+.col-6 .img-fluid{
+    width: 80px;
+}
+/*Reviews*/
+.reviews__container{
+    padding: 100px 50px;
+    background-color: #f0f5f9
+}
+.faq__container{
+    padding: 100px 50px;
+    background-color: #f0f5f9
+}
